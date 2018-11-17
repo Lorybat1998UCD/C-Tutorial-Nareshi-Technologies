@@ -1,0 +1,25 @@
+Types of Constructors:
+
+1. Default or Parameter Less Constructor
+	- If a constructor method doesn't take any parameters.
+	- These constructors can be defined by the programmer explicitly or else will be defined implicitly by the
+	compiler provided there is no explicit constructor under the class.
+
+	Eg.
+
+		class Test
+		{
+			public Test()  //implicit constructor
+			{
+			}
+		}
+
+2. Parametrized Constructor
+	- If a constructor method is defined without any parameters we call that cas parametrized constructors.
+	- Thse constructors can eb defined by the programmer only.
+
+3. Copy Constructor
+	- If we want to create multiple instances with the same value, we can use these copy constructors.
+	- In a copy constructor, the  constructor takes the same class as a parameter to it.
+4. Static Constructor
+
