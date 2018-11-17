@@ -1,0 +1,7 @@
+C:\Users\CLEVO\Documents\C# Tutorial Nareshi Technologies\Tutorial Constructors\bin\Debug\Tutorial Constructors.exe.config
+C:\Users\CLEVO\Documents\C# Tutorial Nareshi Technologies\Tutorial Constructors\bin\Debug\Tutorial Constructors.exe
+C:\Users\CLEVO\Documents\C# Tutorial Nareshi Technologies\Tutorial Constructors\bin\Debug\Tutorial Constructors.pdb
+C:\Users\CLEVO\Documents\C# Tutorial Nareshi Technologies\Tutorial Constructors\obj\Debug\Tutorial Constructors.csprojAssemblyReference.cache
+C:\Users\CLEVO\Documents\C# Tutorial Nareshi Technologies\Tutorial Constructors\obj\Debug\Tutorial Constructors.csproj.CoreCompileInputs.cache
+C:\Users\CLEVO\Documents\C# Tutorial Nareshi Technologies\Tutorial Constructors\obj\Debug\Tutorial Constructors.exe
+C:\Users\CLEVO\Documents\C# Tutorial Nareshi Technologies\Tutorial Constructors\obj\Debug\Tutorial Constructors.pdb

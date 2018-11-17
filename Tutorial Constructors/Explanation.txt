@@ -1,0 +1,50 @@
+Constructor:
+
+- It's a special method present under a class responsible for initialising the variables of that class.
+
+- The name of a constructor is exactly the same name of the class in which it was present, and moreover it's a non-returning method
+
+- Each and every class requires this constructor if we want to create the instance of the class
+
+Eg. 
+
+class Test{
+	int i;
+}
+
+Test obj = new Test(); //Valid
+
+It's the responsibility of the programmer to define the constructor under their class. If this is not done, an implicit constructor is 
+defined in the class by the compiler:
+
+class Test{
+	int i;
+	string s;
+	bool b;
+	
+	public Test()
+	{	
+		i = 0;
+		s=null;
+		b=false;	
+		}
+	}
+
+- Implicitly defined constructors are parameter-less and these constructors also known as default constructors.
+
+- Implicitly defined constructors are public.
+
+- We can also define a constructor under the calss and if we define it we can call it as an explicit constructor. This can be parameterless
+or parametrized.
+
+If we want to define it explicitly:
+
+	[<modifiers>] <Name> ( [<parameter list>] )
+	{
+		-statements
+	}
+
+Defining a constructor means implementing a constructor in the project. 
+Can be implicit or explicit (compiler or programmer defined).
+
+Calling should be done Explicitly.

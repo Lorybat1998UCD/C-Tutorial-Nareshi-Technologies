@@ -7,7 +7,7 @@
     <ProjectGuid>{EB7A5C54-5A03-420F-914A-3BF41C0786FD}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Tutorial_Constructors</RootNamespace>
-    <AssemblyName>Tutorial_Constructors</AssemblyName>
+    <AssemblyName>Tutorial Constructors</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ExplicitConDemo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
