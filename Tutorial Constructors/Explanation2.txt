@@ -21,5 +21,23 @@ Types of Constructors:
 3. Copy Constructor
 	- If we want to create multiple instances with the same value, we can use these copy constructors.
 	- In a copy constructor, the  constructor takes the same class as a parameter to it.
-4. Static Constructor
 
+4. Static Constructor
+	- If a constructor is explicitly declared by using the static modifier we call it a static constructor. 
+	- All the constructors have defined so far are non-static or instance constructors.
+
+	Eg.
+
+		class Test
+		{
+			static Test() //static constructor defined explicitly
+			{
+			}
+			public Test() //Implicit default constructor
+			{
+			}
+		}
+
+	- If a class contains any static variables, then only implicit static constructors will be present or else
+	we need to define them explicitly, whereas non-static constructors will be implicitly deifned in every class
+	(except static class) provided we did not define them explicitly.
